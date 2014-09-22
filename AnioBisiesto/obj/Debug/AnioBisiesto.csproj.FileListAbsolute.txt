@@ -1,0 +1,5 @@
+c:\users\innsa\documents\visual studio 2012\Projects\AnioBisiesto\AnioBisiesto\bin\Debug\AnioBisiesto.dll
+c:\users\innsa\documents\visual studio 2012\Projects\AnioBisiesto\AnioBisiesto\bin\Debug\AnioBisiesto.pdb
+c:\users\innsa\documents\visual studio 2012\Projects\AnioBisiesto\AnioBisiesto\obj\Debug\AnioBisiesto.csprojResolveAssemblyReference.cache
+c:\users\innsa\documents\visual studio 2012\Projects\AnioBisiesto\AnioBisiesto\obj\Debug\AnioBisiesto.dll
+c:\users\innsa\documents\visual studio 2012\Projects\AnioBisiesto\AnioBisiesto\obj\Debug\AnioBisiesto.pdb
